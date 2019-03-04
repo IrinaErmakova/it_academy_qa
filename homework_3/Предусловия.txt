@@ -1,0 +1,4 @@
+Используется 
+https://turbo.net/
+ОС windows 10. 64 разрядная, браузер версии 35 Opera
+https://spreecommerce-demo.herokuapp.com/

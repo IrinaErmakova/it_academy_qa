@@ -1,0 +1,6 @@
+SELECT * FROM Products;
+SELECT * FROM Products WHERE prod_price > 4;
+SELECT * FROM Customers WHERE cust_name != "Fun4All";
+SELECT * FROM OrderItems ORDER BY item_price DESC;
+UPDATE Products SET prod_id = 'IRK85' WHERE vend_id = "ZZ778";
+UPDATE Products SET prod_id = CONCAT(prod_id, "newvalue") WHERE vend_id = "ZZ778";
